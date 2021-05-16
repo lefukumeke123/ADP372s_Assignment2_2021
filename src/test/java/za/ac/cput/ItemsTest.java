@@ -54,7 +54,7 @@ class ItemsTest {
 
     }
 
-    //Everything Testing on Collection
+    //Everything Testing on COLLECTION
     @Test
     void addtoCollection() {
         carCollection.add("Mercedes-Benz");
@@ -78,7 +78,7 @@ class ItemsTest {
 
     }
 
-    //Everything Testing On the Map
+    //Everything Testing On the MAP
     @Test
     void addToMap() {
         nameAndAge.put("Sipho", 12);
@@ -100,7 +100,7 @@ class ItemsTest {
 
 
 
-    //Everything Testing on Set
+    //Everything Testing on SET
     @Test
     void addtoSet() {
         numbers.add(70);
@@ -121,7 +121,7 @@ class ItemsTest {
     }
 
 
-    //Everything Testing on List
+    //Everything Testing on LIST
     @Test
     void addtoList() {
         animals.add("Sheep");
